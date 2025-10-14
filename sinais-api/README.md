@@ -1,11 +1,11 @@
 # SINAIS API (Spring Boot 3 / Java 17)
 
 ## 👥 Equipe
-- **Juliana Villalpando Maita** — RA 99224
-- **João Victor Dos Santos Morais** — RA 550453
-- **Luana Cabezaolias Miguel** — RA 99320
-- **Lucca Vilaça Okubo** — RA 551538
-- **Pedro Henrique Pontes Farath** — RA 98608
+- **Juliana Villalpando Maita** — RM 99224
+- **João Victor Dos Santos Morais** — RM 550453
+- **Luana Cabezaolias Miguel** — RM 99320
+- **Lucca Vilaça Okubo** — RM 551538
+- **Pedro Henrique Pontes Farath** — RM 98608
 
 
 API para o projeto **SINAIS** — app de contenção de vício em jogos online (cassinos, apostas).
